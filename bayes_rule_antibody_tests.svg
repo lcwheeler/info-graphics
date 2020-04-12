@@ -14,7 +14,7 @@
    viewBox="0 0 762 762.00003"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="bayes_rule_antibody_tests.svg">
   <defs
      id="defs2">
@@ -227,16 +227,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26"
+     inkscape:zoom="0.34"
      inkscape:cx="1424.8398"
      inkscape:cy="1303.2905"
      inkscape:document-units="mm"
      inkscape:current-layer="g7450"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showguides="true"
@@ -250,7 +250,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,12 +609,13 @@
                          y="358.80234"
                          x="-13.319438"
                          style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                         xml:space="preserve"><tspan
+                         xml:space="preserve"
+                         sodipodi:linespacing="125%"><tspan
                            style="font-size:11.28888893px;stroke-width:0.26458332px"
                            y="358.80234"
                            x="-13.319438"
                            id="tspan851-3-9-8"
-                           sodipodi:role="line">Incidence = 1% </tspan></text>
+                           sodipodi:role="line">Prevalence = 1% </tspan></text>
                       <rect
                          ry="0"
                          rx="0.0052874302"
@@ -866,12 +867,13 @@
                                    style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                                    x="-13.158772"
                                    y="673.29755"
-                                   id="text853-5-2-8-9"><tspan
+                                   id="text853-5-2-8-9"
+                                   sodipodi:linespacing="125%"><tspan
                                    sodipodi:role="line"
                                    id="tspan851-3-9-8-6"
                                    x="-13.158772"
                                    y="673.29755"
-                                   style="font-size:11.28888893px;stroke-width:0.26458332px">Incidence = 10% </tspan></text>
+                                   style="font-size:11.28888893px;stroke-width:0.26458332px">Prevalence = 10% </tspan></text>
                                 <rect
                                    style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:#000000;stroke-width:0.5847953;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                                    id="rect10-6-2"
