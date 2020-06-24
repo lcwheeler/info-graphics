@@ -356,7 +356,7 @@
                            y="368.97495"
                            x="163.08415"
                            id="tspan851-3-9-2-3"
-                           sodipodi:role="line">False Positive Rate = 4.4%</tspan></text>
+                           sodipodi:role="line">Specificity = 95.6%</tspan></text>
                       <text
                          id="text853-5-8-3"
                          y="274.09338"
@@ -777,7 +777,7 @@
                                    y="300.46857"
                                    x="402.13544"
                                    id="tspan851-3-9-2-3-3"
-                                   sodipodi:role="line">False Positive Rate = 4.4%</tspan></text>
+                                   sodipodi:role="line">Specificity = 95.6%</tspan></text>
                                 </g>
                                 <rect
                                    style="opacity:1;fill:none;fill-opacity:0.03921569;stroke:#000000;stroke-width:1.54727101;stroke-miterlimit:4;stroke-dasharray:3.09454191, 3.09454191;stroke-dashoffset:0;stroke-opacity:1"
